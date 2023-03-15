@@ -1,0 +1,1 @@
+const words = ["trash", "sleet", "thump", "wound", "bleak"];
